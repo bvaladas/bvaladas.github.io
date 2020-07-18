@@ -1,0 +1,5 @@
+Rust Servers:
+
+RustsLife: client.connect 54.37.88.162:28068
+Monthly BP, Weekly MAP (On monday)
+3x
